@@ -1,3 +1,0 @@
-LIVE: 4.0.1 LIVE  (02.02.2025, 19:17)
-PTU: PTU 4.0.2 Vorbereitung ...
-EPTU: EPTU nicht verfügbar
