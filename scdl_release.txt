@@ -1,2 +1,0 @@
-release:2.1.0.2
-resources:2.1.0.2
